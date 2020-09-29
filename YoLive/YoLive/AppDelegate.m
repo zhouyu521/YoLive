@@ -18,7 +18,11 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(<#delayInSeconds#> * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
-        <#code to be executed after a specified delay#>
+        lksjdlfjklsdjflsdfldsjfl
+        d23
+        432
+        '4
+        234
     });
     return YES;
 }
